@@ -1,0 +1,9 @@
+# Name, Type, SubType, Offset, Size, Flags
+sec_cert,0x3f,0x06,0xd000,12K,
+nvs,data,nvs,0x10000,24K,
+otadata,data,ota,0x16000,8K,
+phy_init,data,phy,0x18000,4K,
+ota_0,app,ota_0,0x20000,1600K,
+ota_1,app,ota_1,0x1b0000,1600K,
+wifi,data,nvs,0x340000,48K,
+fctry,data,nvs,0x34c000,48K,
